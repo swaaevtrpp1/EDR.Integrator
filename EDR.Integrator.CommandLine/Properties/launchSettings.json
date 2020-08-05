@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EDR.Integrator.CommandLine": {
+      "commandName": "Project",
+      "commandLineArgs": "srv_samaria3"
+    }
+  }
+}
